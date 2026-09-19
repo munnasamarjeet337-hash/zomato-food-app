@@ -1,4 +1,4 @@
-# Zomato Food App | Reels-Style Food Discovery 🍔🎥
+# Zomato Food App | Reels-Style Food Discovery 
 
 A full-stack food delivery web application built using the MERN stack (MongoDB, Express.js, React, Node.js), featuring an interactive reels-style video feed for discovering food items, user authentication, and restaurant partner management.
 
